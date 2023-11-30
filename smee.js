@@ -1,7 +1,7 @@
 const SmeeClient = require('smee-client')
 
 const smee = new SmeeClient({
-  source: 'https://smee.io/x7jyxSM7Lo3plrF',
+  source: 'https://smee.io/PIazH2eLGkGYiKyC',
   target: 'http://localhost:3000/events',
   logger: console
 })
